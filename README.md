@@ -1,4 +1,4 @@
-# Multi-User Sand Simulation (Single Global Room)
+# Multi-User Sand Simulation
 
 Monorepo with three apps:
 - `backend/`: Elixir + Phoenix channels authoritative simulation server.
