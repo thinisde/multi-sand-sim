@@ -7,6 +7,10 @@ Monorepo with three apps:
 
 All clients join one fixed Phoenix topic: `"global"`.
 
+
+Uploading Screen Recording 2026-02-28 at 01.03.30.mov…
+
+
 ## Requirements
 
 - Elixir 1.19+ and Erlang/OTP 28+
