@@ -8,7 +8,9 @@ Monorepo with three apps:
 All clients join one fixed Phoenix topic: `"global"`.
 
 
-Uploading Screen Recording 2026-02-28 at 01.03.30.mov…
+
+https://github.com/user-attachments/assets/993f0ad2-6833-48ae-b377-f0c9b313fc8a
+
 
 
 ## Requirements
